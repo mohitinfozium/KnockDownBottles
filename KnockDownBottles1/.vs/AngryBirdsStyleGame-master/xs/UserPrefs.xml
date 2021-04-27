@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{964F3EEB-2396-95B5-E5CA-0EBC040FABED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyPackage/Assets/ColyseusClient.cs">
+    <Files>
+      <File FileName="Assets/MyPackage/Assets/ColyseusClient.cs" Line="84" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6153828-1b31-470e-8aea-164aa0744743" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

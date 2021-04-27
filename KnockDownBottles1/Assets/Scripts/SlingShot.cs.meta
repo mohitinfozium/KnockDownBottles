@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1a7405d2e05b4764b84ca51e2b3c2974
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LevelPassed: {instanceID: 0}
+  - holder: {instanceID: 0}
+  - LeftSlingshotOrigin: {instanceID: 0}
+  - RightSlingshotOrigin: {instanceID: 0}
+  - SlingshotLineRenderer1: {instanceID: 0}
+  - SlingshotLineRenderer2: {instanceID: 0}
+  - TrajectoryLineRenderer: {instanceID: 0}
+  - BirdToThrow: {fileID: 7630108589966657757, guid: 33b433c47fde645389a0e771c5925fa6,
+      type: 3}
+  - BirdWaitPosition: {instanceID: 0}
+  - dotPrefab: {fileID: 9029538887303505231, guid: 57bdd49eddd3143f7a30a03a766b53a9,
+      type: 3}
+  - dotsParent: {fileID: 9029538887303505231, guid: 57bdd49eddd3143f7a30a03a766b53a9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
